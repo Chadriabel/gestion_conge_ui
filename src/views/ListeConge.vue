@@ -1,9 +1,11 @@
 <script>
 
+
 </script>
 
 <template>
-    <router-view></router-view>
+    <div>poier</div>
+
 
 </template>
 
